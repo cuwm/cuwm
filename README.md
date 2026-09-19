@@ -38,7 +38,7 @@ hi :p
 
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-pqkemon-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489019129728995509)
+[![discord](https://img.shields.io/badge/discord-realsistrs-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489019129728995509)
 [![github](https://img.shields.io/badge/github-cuwm-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuwm)
 [![telegram](https://img.shields.io/badge/telegram-realsistrs-A855F7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realsistrs)
 
