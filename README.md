@@ -38,9 +38,9 @@ hi
 
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-atferparty-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489019129728995509)
+[![discord](https://img.shields.io/badge/discord-aghrkfkdn-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489019129728995509)
 [![github](https://img.shields.io/badge/github-cuwm-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuwm)
-[![telegram](https://img.shields.io/badge/telegram-yslfw-A855F7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yslfw)
+[![telegram](https://img.shields.io/badge/telegram-yxvuz-A855F7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yslfw)
 
 <img src="https://komarev.com/ghpvc/?username=cuwm&color=A855F7&style=flat-square&label=views" />
 
