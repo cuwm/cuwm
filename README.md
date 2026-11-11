@@ -40,7 +40,7 @@ hi
 
 [![discord](https://img.shields.io/badge/discord-ehog-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489019129728995509)
 [![github](https://img.shields.io/badge/github-cuwm-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuwm)
-[![telegram](https://img.shields.io/badge/telegram-baalsplan-A855F7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/baalsplan)
+[![telegram](https://img.shields.io/badge/telegram-bvlgur-A855F7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bvlgur)
 
 <img src="https://komarev.com/ghpvc/?username=cuwm&color=A855F7&style=flat-square&label=views" />
 
